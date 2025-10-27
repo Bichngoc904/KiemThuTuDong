@@ -1,0 +1,5 @@
+quantity, expected_quantity, description
+2, 2, "Số lượng hợp lệ"
+-1, 0, "Số lượng âm → xóa sản phẩm"
+abc, 0, "Số lượng chữ → xóa sản phẩm"
+100000000, 1, "Số lượng quá lớn → cập nhật thành 1"

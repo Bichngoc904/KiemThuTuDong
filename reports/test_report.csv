@@ -1,0 +1,3 @@
+Thời gian,Tên Test,Dữ liệu,Kết quả
+2025-10-27 09:47:16,test_login_ddt[b18ngocie@gmail.com-Ngoc1809@-success],"{'_verify_url': None, 'delete_output_dir': None, 'base_url': 'https://kunmiu.com/', 'pytestconfig': <_pytest.config.Config object at 0x0000029F0814ACF0>, 'email': 'b18ngocie@gmail.com', 'password': 'Ngoc1809@', 'expected': 'success'}",PASS
+2025-10-27 09:47:44,test_login_ddt[b18ngocie@gmail.com-PasswordSai123-invalid_login],"{'_verify_url': None, 'delete_output_dir': None, 'base_url': 'https://kunmiu.com/', 'pytestconfig': <_pytest.config.Config object at 0x0000029F0814ACF0>, 'email': 'b18ngocie@gmail.com', 'password': 'PasswordSai123', 'expected': 'invalid_login'}",PASS
